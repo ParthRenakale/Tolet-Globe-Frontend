@@ -85,7 +85,7 @@ const Listing = () => {
     ],
     Ayodhya: ["ayodhya1", "ayodhya2"],
     Vellore: ["vellore1", "vellore2"],
-    Kota: ["kota1", "kota2"],
+    Kota: ["kota1", "kota2","kota3"],
   };
 
   // Add this new state for search
